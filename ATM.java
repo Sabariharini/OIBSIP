@@ -1,4 +1,3 @@
-# ATM.java
 import java.util.List;
 import java.util.Scanner;
 public class ATM {
